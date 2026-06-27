@@ -6,7 +6,7 @@ This web app: **A NASA-themed discovery experience that displays random
 Astronomy Picture of the Day images and lets users shape future results
 by banning years, subjects, and image credits.**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ![Orbit NASA Space Explorer](assets/orbit-app.png)
 
